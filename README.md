@@ -4,7 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-9Chain%20v2%20API-orange.svg)](https://www.9chain.com)
 
-Bot otomasi multi-akun tangguh untuk ekosistem **9Chain** (`https://www.9chain.com` / API v2 `https://api.9chain.com/v2`). Dibangun menggunakan Python standard library (zero-dependency core) dengan fitur auto check-in, auto-tap batch, smart node tier upgrade, dan optimasi komponen berbasis Return of Investment (ROI) terbaik.
+## Bot otomasi multi-akun tangguh untuk ekosistem **9Chain** https://www.9chain.com/ref/517464432 .
+Dibangun menggunakan Python standard library (zero-dependency core) dengan fitur auto check-in, auto-tap batch, smart node tier upgrade, dan optimasi komponen berbasis Return of Investment (ROI) terbaik.
 
 ---
 
