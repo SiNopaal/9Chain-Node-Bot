@@ -1,0 +1,5 @@
+# Masukkan akun 9Chain Anda di sini, satu baris per akun:
+# Format: email:password atau email saja (jika menggunakan DEFAULT_PASSWORD di .env)
+# Contoh:
+# user1@gmail.com:PasswordRahasia123
+# user2@gmail.com

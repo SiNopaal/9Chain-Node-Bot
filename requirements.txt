@@ -1,0 +1,4 @@
+# 9Chain Automation Bot
+# Tidak memerlukan external library tambahan karena menggunakan Python Standard Library (urllib, json, time, os, sys)
+# Optional dependencies:
+python-dotenv>=1.0.0

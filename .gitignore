@@ -1,0 +1,22 @@
+# Environment & Keys
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Sensitive Data (Wallets, Private Keys, Accounts)
+accounts.txt
+accounts.example.txt
+!accounts.example.txt
+wallets*.json
+wallets.example.json
+!wallets.example.json
+*.session
+*.log
+
+# Node & Python
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
